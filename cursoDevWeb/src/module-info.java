@@ -5,5 +5,5 @@
  * @author Sofia
  *
  */
-module FirstProject {
+module cursoDevWeb {
 }
